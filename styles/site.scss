@@ -2,4 +2,6 @@
 --- 
 /*Imports base variables, custom css, syntax-highlighitng and the bootstrap framework
   and builds the output in _site/styles/site.css*/
+@import "base";
 @import "bootstrap";
+@import "layout";
